@@ -7,8 +7,8 @@ cy='\033[36;1m' #cyan
 me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
-# Jangan Recode Ya gayn
 echo
+python2 password.py
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
@@ -38,7 +38,7 @@ echo $i"|"$me"14"$i" |"$cy" PHISING FACEBOOK 1       "$i"|"
 echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"
-echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"
+echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU       "$i"|"
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"
 echo $i"────────────────────────────────"
 echo
