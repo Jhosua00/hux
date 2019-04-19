@@ -232,8 +232,7 @@ pkg install nano
 figlet -f slant " S U K S E S "|lolcat
 fi
 
-
-if [ $pil = 19]
+if [ $pil = 19 ]
 then
 clear
 git clone https://github.com/thelinuxchoice/locator.git
