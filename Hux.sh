@@ -8,8 +8,10 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 echo
-python2 password.py
 echo
+python2 meizu.py
+echo
+clear
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"           LUCIFER TOOLS INSTALLER"$i"           |"
