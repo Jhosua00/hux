@@ -235,9 +235,10 @@ fi
 if [ $pil = 19 ]
 then
 clear
-git clone https://github.com/thelinuxchoice/locator.git
-cd locator
-bash locator.sh
+git clone https://github.com/indosecid/gps_tracking
+cd gps_tracking
+chmod +x gps.php
+php gps.php
 fi
 
 if [ $pil = 20 ]
